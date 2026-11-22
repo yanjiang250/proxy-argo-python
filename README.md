@@ -1,1 +1,1 @@
-# 基于Python的Shadowsocks代理脚本
+# proxy-argo-python
